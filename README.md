@@ -32,7 +32,6 @@
   - [Running the Notebook](#running-the-notebook)
 - [Results](#-results)
 - [Tech Stack](#-tech-stack)
-- [Project Chapters (Video Timestamps)](#-project-chapters)
 - [Acknowledgements](#-acknowledgements)
 - [License](#-license)
 
