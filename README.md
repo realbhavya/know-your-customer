@@ -386,24 +386,6 @@ Key business insights derived from clusters:
 
 ---
 
-## 📺 Project Chapters
-
-| Timestamp    | Chapter                          |
-|--------------|----------------------------------|
-| `00:00:00`   | Introduction & Project Overview  |
-| `00:02:35`   | Environment Setup                |
-| `00:05:27`   | Exploratory Data Analysis (EDA)  |
-| `00:24:23`   | Data Cleaning                    |
-| `00:33:20`   | How KMeans Clustering Works      |
-| `00:37:55`   | RFM Feature Engineering          |
-| `01:11:59`   | KMeans Clustering                |
-| `01:25:40`   | Cluster Analysis                 |
-| `01:33:31`   | Outlier Analysis                 |
-| `01:41:34`   | Visualization                    |
-| `01:46:27`   | Outro & Thanks                   |
-
----
-
 ## 🙏 Acknowledgements
 - **Dataset:** [UCI ML Repository – Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
 - **Whitepaper inspiration:** [Mining Online Retail Customer Data](https://link.springer.com/article/10.1057/dbm.2012.17)
