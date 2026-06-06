@@ -12,16 +12,6 @@
 <h1 align="center">🛒 Online Retail Customer Segmentation</h1>
 <h3 align="center">RFM Feature Engineering + KMeans Clustering in Python</h3>
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=afPJeQuVeuY">
-    <img src="https://img.youtube.com/vi/afPJeQuVeuY/maxresdefault.jpg" alt="Watch the Tutorial" width="600"/>
-  </a>
-  <br/>
-  <em>▶ Click the image above to watch the full tutorial on YouTube</em>
-</p>
-
----
-
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
