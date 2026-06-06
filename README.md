@@ -405,8 +405,6 @@ Key business insights derived from clusters:
 ---
 
 ## 🙏 Acknowledgements
-
-- **Tutorial by:** [TrentDoesMath](https://www.youtube.com/@TrentDoesMath) — Original video walkthrough
 - **Dataset:** [UCI ML Repository – Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
 - **Whitepaper inspiration:** [Mining Online Retail Customer Data](https://link.springer.com/article/10.1057/dbm.2012.17)
 - **Urgency/Importance Matrix image credit:** [Rushcutters Health](https://rushcuttershealth.com.au/how-to-prioritise-tasks-and-get-more-of-the-important-things-done-the-urgent-vs-important-matrix/)
